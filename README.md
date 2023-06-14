@@ -6,3 +6,6 @@ Sorry if it has unrelated stuff, I was playing around with other packages. I'm t
 Just make sure you have/do:
 Golang installed
 and that's it I built it so give me credit if you put it in your program!
+
+
+OH ONE LAST THING, GIVE A STAR IF YOU WANT IT UPDATED AND NEW FEATURES TO BE ADDED TO IT!!
